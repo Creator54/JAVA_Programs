@@ -10,7 +10,7 @@ public class Data_Types {
 		System.out.println("5. float(float,4 byte)");
 		System.out.println("6. double(float,1 byte)");
 		System.out.println("7. char(a char,2 byte)");
-		System.out.println("8. boolean(true/false,1 byte)");
+		System.out.println("8. boolean(true/false,1 bit)");
 		//By default float stores double value
 		//i.e typecasting is needed
 		//e.g
